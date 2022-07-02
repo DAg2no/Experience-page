@@ -3,7 +3,7 @@
     background-position: center;
     background-size: cover;
 }
-.header{
+.fond-aa{
     background-image: url(../img/header.header.jpg);
     background-position: center;
     background-size: cover;
@@ -13,4 +13,14 @@
 }
 .bg-ImageTransparent{
     background-image: url(../img/depositphotos_44627471-stock-photo-transparent.jpeg);
+}
+.bg-fond-image{
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+}
+.fond-dd {
+    background-image: url(../img/section.jpg);
+    background-position: center;
+    background-size: cover;
 }
