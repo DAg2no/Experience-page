@@ -11,3 +11,6 @@
 .transparent{
     background-color: transparent;
 }
+.bg-ImageTransparent{
+    background-image: url(../img/depositphotos_44627471-stock-photo-transparent.jpeg);
+}
