@@ -24,6 +24,6 @@
     background-position: center;
     background-size: cover;
 }
-navbar-icon{
-    background-image: url(../img/icon-navbar.png);
+.padding-end-12{
+    height: 1000px;
 }
