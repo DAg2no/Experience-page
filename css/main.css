@@ -20,7 +20,10 @@
     background-size: cover;
 }
 .fond-dd {
-    background-image: url(../img/section.jpg);
+    background-color: darkolivegreen;
     background-position: center;
     background-size: cover;
+}
+navbar-icon{
+    background-image: url(../img/icon-navbar.png);
 }
