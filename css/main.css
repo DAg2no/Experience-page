@@ -27,3 +27,7 @@
 .padding-end-12{
     height: 1000px;
 }
+.cuts{
+    max-width: 1px;
+    max-height: 1px;
+}
