@@ -31,3 +31,12 @@
 .padding-end-13{
     height: 400px;
 }
+.btn-page{
+
+    background-size:cover;
+    background-position: center;
+    background-image: url(../img/logo.png);
+    height: 200px;
+    width: 200px;
+
+}
